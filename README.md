@@ -164,8 +164,8 @@ A cloud-based POS system for managing orders, inventory, and customer data in re
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/virajdabas)
-- 💻 [GitHub](https://github.com/virajdabas2021)
+- 💼 [LinkedIn](https://www.linkedin.com/in/viraj-dabas-a9b84b28a/)
+- 💻 [GitHub](https://github.com/virajdabas2021-jpg)
 - 📧 [Email](mailto:virajdabas2021@gmail.com)
 
 ---
