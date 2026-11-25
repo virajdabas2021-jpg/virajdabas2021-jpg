@@ -186,7 +186,7 @@ DAV Public School, Mansurpur
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viraj-dabas/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/viraj-dabas-a9b84b28a/)
 - 💻 [GitHub](https://github.com/virajdabas2021-jpg)
 - 📧 [Email](mailto:virajdabas2021@gmail.com)
 
